@@ -15,9 +15,9 @@ This is a [UBC Library Research Commons workshop](https://researchcommons.librar
 
 At the end of this workshop, participants will be able to:
 
-1.
-2.
-3.
+1.  
+2.  
+3.  
 
 ## Schedule
 
